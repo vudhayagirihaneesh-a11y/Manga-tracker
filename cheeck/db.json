@@ -1,0 +1,68 @@
+{
+  "manga": [
+    {
+      "mal_id": 11,
+      "title": "Naruto",
+      "image_url": "https://cdn.myanimelist.net/images/manga/3/249658.jpg",
+      "status": "Reading",
+      "chapters_read": 1,
+      "total_chapters": 700,
+      "rating": 8,
+      "notes": "",
+      "tags": [],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "manga",
+          "name": "Action",
+          "url": "https://myanimelist.net/manga/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "type": "manga",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/manga/genre/2/Adventure"
+        },
+        {
+          "mal_id": 10,
+          "type": "manga",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+        }
+      ],
+      "id": 1782363704678,
+      "last_updated": 1782367545133,
+      "reading_history": [
+        {
+          "date": "2026-06-25",
+          "count": 711
+        }
+      ]
+    },
+    {
+      "mal_id": 13,
+      "title": "One Piece",
+      "image_url": "https://cdn.myanimelist.net/images/manga/2/253146.jpg",
+      "status": "Reading",
+      "chapters_read": 22,
+      "total_chapters": null,
+      "id": 1782157986730,
+      "rating": 10,
+      "notes": "very good story ",
+      "tags": [
+        "#hellyeaa"
+      ],
+      "last_updated": 1782364023350,
+      "reading_history": [
+        {
+          "date": "2026-06-24",
+          "count": 100003
+        },
+        {
+          "date": "2026-06-25",
+          "count": 18
+        }
+      ]
+    }
+  ]
+}
